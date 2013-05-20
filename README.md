@@ -12,7 +12,7 @@ This is an expriment in storing an anki deck in GitHub.  I've started with my pr
 5.  In the Import dialog, each field should map to an Anki field. In this case, the format of the import file is Kanj, Kana, English, POS, 2ndDef, OtherDef, Tags.
 6.  Click **Import**.
 
-## Installation (Without and existing deck)
+## Installation (Without an existing deck)
 TBR
 
 ## License
