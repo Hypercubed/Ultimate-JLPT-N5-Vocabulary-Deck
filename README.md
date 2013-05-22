@@ -9,7 +9,7 @@ This is an expriment in storing an anki deck in GitHub.  I've started with my pr
 3.  Click on the **File | Import** menu option.
 4.  Open the .tsv import file.
 5.  In the Import dialog, each field should map to an Anki field. In this case, the format of the import file is Kanj, Kana, English, POS, 2ndDef, OtherDef, Tags.
-6.  Make sure teh currect desk is selected and the `Fields seperated by` is set to `tab`.
+6.  Make sure the correct deck is selected and the `Fields seperated by` is set to `tab`.
 7.  Slelect `Update existing notes when first field matches` if you wish to keep your current deck progress.
 8.  Click **Import**.
 
