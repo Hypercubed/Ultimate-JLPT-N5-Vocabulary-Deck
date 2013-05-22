@@ -3,7 +3,8 @@ Ultimate JLPT N5 Vocabulary Deck
 
 This is an expriment in storing an anki deck in GitHub.  I've started with my presonal favorite Anki deck [Ultimate JLPT N5 Vocabulary Deck v1.2](https://ankiweb.net/shared/info/523650169) from [http://jlptbootcamp.com](http://jlptbootcamp.com/2011/08/the-ultimate-deck-of-jlpt-n5-vocabulary-flashcards/)
 
-## Installation (Existing [Ultimate JLPT N5 Vocabulary Deck](https://ankiweb.net/shared/info/523650169) deck)
+## Installation
+0. If you haven't done so already install the [latest AnkiWeb version](https://ankiweb.net/shared/info/523650169).
 1.  Download the notes.tsv file
 2.  Open the [Ultimate JLPT N5 Vocabulary Deck](https://ankiweb.net/shared/info/523650169) Anki deck.
 3.  Click on the **File | Import** menu option.
@@ -13,14 +14,11 @@ This is an expriment in storing an anki deck in GitHub.  I've started with my pr
 7.  Slelect `Update existing notes when first field matches` if you wish to keep your current deck progress.
 8.  Click **Import**.
 
-## Installation (Without an existing deck)
-Coming soon...
-
 ## Exporting
 1.  Open Anki.
 3.  Click on the **File | Export** menu option.
-4.  Select `Notes in plain text` from the **Export Format*** dropdown.
-5.  Select your deck from the **Include*** dropdown.
+4.  Select `Notes in plain text` from the **Export Format** dropdown.
+5.  Select your deck from the **Include** dropdown.
 6.  Be sure to select **Include Tags**.
 6.  Click **Export...**.
 
